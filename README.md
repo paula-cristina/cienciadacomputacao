@@ -37,4 +37,6 @@ O egresso deste curso deverá estar situado no estado da arte da ciência e da t
 * Faz-se também necessário que o discente desenvolva um conjunto de competências e de habilidades durante o curso, de forma a dar suporte ao profissional desejável.
 
 
-##### :bust_in_silhouette: Paula Cristina Martins :envelope: paulacristina@unifeg.edu.br :house_with_garden: Monte Belo, MG, Brasil
+##### :busts_in_silhouette: Paula Cristina Martins :copyright:
+##### :envelope: paulacristina@unifeg.edu.br 
+##### :house_with_garden: Monte Belo, MG, Brasil
