@@ -1,13 +1,13 @@
 ## METODOLOGIA DA PESQUISA CIENTÍFICA
 
 * :partly_sunny: ***Período:*** 1º.
-* :clock3: ***Carga Horária:*** 40.
+* :clock3: ***Carga Horária:*** 40 h/a.
  
 ### *Ementa:*
-    Fundamentos da Metodologia Científica. A Comunicação Científica. Métodos e técnicas de pesquisa. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organização de texto científico (Normas ABNT e IEEE)
+    Fundamentos da Metodologia Científica. A Comunicação Científica. Métodos e técnicas de pesquisa. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa. O Experimento. A organização de texto científico (Normas ABNT e IEEE).
  
 ### *Objetivos Gerais:*
-    Qualificar o aluno no desenvolvimento de projetos de cunho científico, no processo de levantamento bibliográfico e utilização de templates para produção de trabalhos científicos
+    Qualificar o aluno no desenvolvimento de projetos de cunho científico, no processo de levantamento bibliográfico e utilização de templates para produção de trabalhos científicos.
  
 ### *Objetivos Específicos:*
     Apresentar ao aluno ferramental metodologico e computacional para realizar pesquisa científica na área computação.

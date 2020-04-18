@@ -1,7 +1,7 @@
 ## FUNDAMENTOS DA FÍSICA PARA COMPUTAÇÃO
 
 * :partly_sunny: ***Período:*** 1º.
-* :clock3: ***Carga Horária:*** 60.
+* :clock3: ***Carga Horária:*** 60 h/a.
  
 ### *Ementa:*
     Circuitos elétricos sob o regime de corrente contínua e alternada. Medidas Elétricas e Instrumentos de Medidas. Dispositivos Elétricos (resistores, capacitores, indutores, diodos, etc).

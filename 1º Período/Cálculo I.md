@@ -1,7 +1,7 @@
 ## CÁLCULO I
 
 * :partly_sunny: ***Período:*** 1º.
-* :clock3: ***Carga Horária:*** 60.
+* :clock3: ***Carga Horária:*** 60 h/a.
  
 ### *Ementa:* 
     Revisão dos conteúdos básicos da Matématica, como conjuntos numéricos, produtos notáveis, fatoração, equações, funções, limites, derivadas.
