@@ -1,20 +1,19 @@
-Ciência da Computação
-Programa Disciplina
-Disciplina: SISTEMAS OPERACIONAIS
-Periodo: 3
-Carga Horária: 60
+## SISTEMAS OPERACIONAIS
+
+* :partly_sunny: ***Período:*** 3º.
+* :clock3: ***Carga Horária:*** 60 h/a.
  
-Ementa:
+### *Ementa:*
     Gerência de processos/processador, Comunicação, Concorrência e Sincronização de Processos, Gerenciamento de Memória, Alocação de Recursos e Deadlocks, Sistemas de Arquivos, Gerenciamento de Dispositivos de Entrada/Saída.
  
-Objetivos Gerais:
+### *Objetivos Gerais:*
     Ao término da disciplina o aluno deverá ser capaz de entender a arquitetura conceitual e o funcionamento geral dos principais componentes dos sistemas operacionais modernos.
  
-Objetivos Específicos:
+### *Objetivos Específicos:*
     Prover aos alunos conhecimentos sobre Sistemas Operacionais, seus objetivos, suas estruturas, e de conceitos e metodologias envolvidas em seus projetos e implementações.
  
-Metodologia:
-    Aulas expositivas e listas de exercícios para verificar o aprendizado do aluno
+### *Metodologia:*
+    Aulas expositivas e listas de exercícios para verificar o aprendizado do aluno.
  
-Critérios de Avaliação:
-    Trabalhos práticos e Seminários - 5 pontos Avaliação - 5 pontos
+
+##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil
