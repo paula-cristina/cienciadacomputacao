@@ -14,3 +14,6 @@
  
 ### *Metodologia:*
     Aulas expositivas, explicativas, com uso de data-show, listas de exercícios, trabalhos em grupo.
+
+
+##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil

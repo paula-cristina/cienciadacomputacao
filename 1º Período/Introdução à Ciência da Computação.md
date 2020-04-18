@@ -15,3 +15,5 @@
 ### *Metodologia:*
     Aula expositiva e dialogada com uso de recursos multimídia. Uso de laboratório para atividades práticas direcionadas.
  
+
+ ##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil

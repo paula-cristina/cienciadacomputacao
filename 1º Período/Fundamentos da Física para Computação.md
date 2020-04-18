@@ -15,3 +15,5 @@
 ### *Metodologia:*
     Aulas expositivas; listas de exercícios; vídeos e simuladores.
  
+
+ ##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil

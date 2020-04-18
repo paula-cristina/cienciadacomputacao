@@ -14,3 +14,6 @@
  
 ### *Metodologia:*
     Aulas teóricas em sala de aula com a apresentação dos conceitos e práticas em laboratório para exercitar os mesmos.
+
+
+##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil

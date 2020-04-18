@@ -15,3 +15,5 @@
 ### *Metodologia:*
     Aula expositiva, debates e metodologia ativas.
  
+
+ ##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil
