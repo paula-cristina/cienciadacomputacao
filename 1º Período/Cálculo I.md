@@ -1,6 +1,5 @@
 ## CÁLCULO I
 
-* :partly_sunny: ***Período:*** 1.
 * :clock3: ***Carga Horária:*** 60.
  
 ### *Ementa:* 
@@ -13,4 +12,4 @@
     Possibilitar ao aluno desenvolvimento de competências e habilidades para aplicar conhecimentos matemáticos, científicos, tecnológicos e instrumentais à sua profissão e desenvolver e/ou utilizar novas ferramentas técnicas.
  
 ### *Metodologia:*
-    Aulas expositivas, explicativas, com uso de data - show, listas de exercícios, trabalhos em grupo.
+    Aulas expositivas, explicativas, com uso de *data-show*, listas de exercícios, trabalhos em grupo.
