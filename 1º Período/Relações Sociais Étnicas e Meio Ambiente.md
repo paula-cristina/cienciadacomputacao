@@ -1,20 +1,17 @@
-Ciência da Computação
-Programa Disciplina
-Disciplina: RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE
-Periodo: 1
-Carga Horária: 20
+## RELAÇÕES SOCIAIS ÉTNICAS E MEIO AMBIENTE
+
+* :partly_sunny: ***Período:*** 1º.
+* :clock3: ***Carga Horária:*** 20.
  
-Ementa:
+### *Ementa:*
     Estudar as relações entre História, Ambiente e relações étnicas, a partir dos diálogos teóricos gerais da História Ambiental, discutindo as questões étnicas. Análise dos principais problemas socioambientais e contemporâneos e o impacto desses problemas na vida diária das pessoas e no contexto onde estão inseridas. Responsabilidade social. Conceito de sustentabilidade. Sustentabilidade como política de orientação do planejamento estratégico das organizações.
  
-Objetivos Gerais:
+### *Objetivos Gerais:*
     Despertar o interesse do discente para as questões sócio-econômico-ambientais a fim de possibilitar a análise crítica dos dilemas contemporâneos, em prol da efetividade do exercício da cidadania.
  
-Objetivos Específicos:
+### *Objetivos Específicos:*
     Estuda a importância das questões ambientais e as relações étnicos raciais e sua aplicabilidade no cotidiano.
  
-Metodologia:
-    Aula expositiva, debates e metodologia ativas
+### *Metodologia:*
+    Aula expositiva, debates e metodologia ativas.
  
-Critérios de Avaliação:
-    Avaliação (prova) participação seminários
