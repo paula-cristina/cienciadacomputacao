@@ -1,20 +1,19 @@
-Ciência da Computação
-Programa Disciplina
-Disciplina: GEOMETRIA ANALÍTICA
-Periodo: 2
-Carga Horária: 60
+## GEOMETRIA ANALÍTICA
+
+* :partly_sunny: ***Período:*** 2º.
+* :clock3: ***Carga Horária:*** 60 h/a.
  
-Ementa:
+### *Ementa:*
     Álgebra matricial. Tipos especiais de matrizes. Matrizes em bloco. Matriz inversa. Sistemas de Equações Lineares. Forma escada. Método de Gauss-jordan. Vetores: álgebra vetorial; combinação linear; conjuntos linearmente independente e dependente; bases.
  
-Objetivos Gerais:
+### *Objetivos Gerais:*
     Apresentar conceitos matemáticos básicos que permitam equacionar e resolver problemas, de natureza geométrica e algébrica, na graduação e na sua vida profissional.
  
-Objetivos Específicos:
+### *Objetivos Específicos:*
     Fornecer ao aluno ferramentas matemáticas para que o aluno possa: operar corretamente usando matrizes e vetores; resolver problemas modelados por sistemas de equações lineares e interpretar os resultados; resolver problemas que envolvam retas e planos e interpretar os resultados. Promover o desenvolvimento do raciocínio matemático abstrato, imprescindível e fundamental na formação do Engenheiro.
  
-Metodologia:
+### *Metodologia:*
     Aulas expositivas dos conceitos teóricos, com exemplos e exercícios para fixação desses conceitos. Listas de exercícios que exijam conhecimentos adquiridos anteriormente fazendo a integração com os novos conceitos. E aulas para discussão de dúvidas adquiridas nos estudos e nas listas de exercícios.
  
-Critérios de Avaliação:
-    Prova bimestral dissertativa, individual e sem consulta, procurando avaliar o domínio dos conceitos da disciplina, bem como a organização de ideias e capacidade de analisar, interpretar e resolver problemas. Trabalho de conclusão de disciplina. Aprovação de acordo com o guia acadêmico 2019.
+
+##### :busts_in_silhouette: Paula Cristina Martins - :envelope: paulacristina@unifeg.edu.br - :house_with_garden: Monte Belo, MG, Brasil
